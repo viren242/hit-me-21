@@ -4,11 +4,11 @@ Hit Me 21 is a classic casino-style Blackjack game built with JavaScript, HTML, 
 
 #### GitHub
 
-[https://github.com/viren242/blackjack-game](https://github.com/viren242/blackjack-game)
+[https://github.com/viren242/hit-me-21](https://github.com/viren242/hit-me-21)
 
 #### Deployment
 
-[https://viren-blackjack.netlify.app/](https://viren-blackjack.netlify.app/)
+[https://hit-me-21.netlify.app/](https://hit-me-21.netlify.app/)
 
 ## Features ✨
 

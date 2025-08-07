@@ -16,7 +16,6 @@ Hit Me 21 is a classic casino-style Blackjack game built with JavaScript, HTML, 
 - **Score Tracking**: Automatic hand value calculation
 - **Online Dealer**: Automated dealer with proper hit logic
 - **Win/Lose Detection**: Instant game outcome determination
-- **Chip System**: Virtual betting system _(To be implemented)_
 - **Responsive Design**: Playable on desktop and mobile devices
 
 ## How to Play 🚀
@@ -34,7 +33,6 @@ Hit Me 21 is a classic casino-style Blackjack game built with JavaScript, HTML, 
 - Face cards (Jack, Queen, King) count as 10
 - Aces count as 11 (automatically calculated for best outcome)
 - Dealer must hit until they reach 17 or higher
-- Blackjack (Ace + 10-value card) pays 3:2 _(To be implemented)_
 
 ## Installation ⚙️
 

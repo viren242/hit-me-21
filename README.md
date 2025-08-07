@@ -1,6 +1,6 @@
-# Blackjack Game ♠️♥️♦️♣️
+# Hit Me 21 (Blackjack Game) ♠️♥️♦️♣️
 
-A classic casino-style Blackjack game built with JavaScript, HTML, and CSS. Test your luck and strategy against the dealer in this interactive web implementation.
+Hit Me 21 is a classic casino-style Blackjack game built with JavaScript, HTML, and CSS. Test your luck and strategy against the dealer in this interactive web implementation.
 
 #### GitHub
 
